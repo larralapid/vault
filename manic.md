@@ -8,7 +8,7 @@ share:
 ---
 
 ---
-## 20240514-pm-025809:
+**20240514-pm-025809:** 
 - desktop= default location for working files, notes, saves, bookmarks. Use it as an inbox. 
 * how do I limit my opened tabs? Or at least get myself to review them? 
 	* turn it into a game 
